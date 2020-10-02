@@ -1,0 +1,52 @@
+DF_number,LM_name,Module ,Module2,Notes
+L1,MSI_L,Face,,
+L12,AIA_L,Base,,Pharyngeal arch derived (shared developmental origin w/ face) but not really proximal to face... unsure 
+L13,PZA_L,Base,,
+L14,OAS_L,Base,,
+L15,OA_L,Base,,
+L17,ATS_L,Base,,
+L19,MMP_L,Face,,
+L2,AIF_L,Face,,
+L22,LFS_L,Face,,Considering vault but... probably not) 
+L23,IOS_L,Face,,
+L24,MS_L,Vault,Face,"Shared developmental origin w/ maxilla, bony nasal passages (also pharyngeal arch), should this be vault?"
+L25,FTP_L,Face,Vault,Vault due to proximity
+L28,MST_L,Vault,Base,Base due to proximity (occipomastoid extends to base) --> thinking not vault 
+L29,TYM_L,Vault,Base,"*** Need help with this one, pos not defined in paper ***, but based on location base? Not vault?"
+L3,AIZ_L,Face,,
+L32,PTZ_L,Vault,Face,"Shared developmental origin w/ maxilla, bony nasal passages (also pharyngeal arch), should this be vault?"
+L33,ATZ_L,Vault,Face,
+L35,ANM_L,Face,,
+L4,PM_L,Face,,
+L5,ASA_L,Face,,
+L6,PIF_L,Face,,
+L8,PSA_L,Face,Base,Perhaps base? 
+M21,NAS,Face,,
+M26,BRG,Vault,,
+M27,LAM,Vault,,
+M37,SES,Vault,Base,
+M38,MSS,Base,,
+M39,SOS,Base,,
+M40,FC,Face,,
+R1,MSI_R,Face,,
+R12,AIA_R,Base,,
+R13,PZA_R,Base,,
+R14,OAS_R,Base,,
+R15,OA_R,Base,,
+R17,ATS_R,Base,,
+R19,MMP_R,Face,,
+R2,AIF_R,Face,,
+R22,LFS_R,Face,,
+R23,IOS_R,Face,,
+R24,MS_R,Vault,Face,
+R25,FTP_R,Face,Vault,
+R28,MST_R,Vault,Base,
+R29,TYM_R,Vault,Base,
+R3,AIZ_R,Face,,
+R32,PTZ_R,Vault,Face,
+R33,ATZ_R,Vault,Face,
+R35,ANM_R,Face,,
+R4,PM_R,Face,,
+R5,ASA_R,Face,,
+R6,PIF_R,Face,,
+R8,PSA_R,Face,Base,
